@@ -1,3 +1,4 @@
+![alexander-ant-So1P671yAt0-unsplash](https://user-images.githubusercontent.com/70243598/173207513-86c932e5-ad94-4fe3-8305-5b91d478eb1f.jpg)
 # Hi there 👋
 #### 🔭 I’m currently working on UMKC / Algorizin
 #### 🌱 I’m currently learning  Frontend and Backend operation and, Data Science
