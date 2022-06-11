@@ -1,12 +1,12 @@
 # Hi there 👋
-### 🔭 I’m currently working on UMKC / Algorizin
-### 🌱 I’m currently learning  Frontend and Backend operation and, Data Science
-### 👯 I’m looking to collaborate on Reinforcement Learning, GAN
-### 🤔 I’m looking for help with GAN, RL, RNN, CNN
-### 💬 Ask me about anything
-### 📫 How to reach me: sehtab@yahoo.com
-###  😄 Pronouns: He/Him
-### ⚡ Fun fact: Ambivert 
+#### 🔭 I’m currently working on UMKC / Algorizin
+#### 🌱 I’m currently learning  Frontend and Backend operation and, Data Science
+#### 👯 I’m looking to collaborate on Reinforcement Learning, GAN
+#### 🤔 I’m looking for help with GAN, RL, RNN, CNN
+#### 💬 Ask me about anything
+#### 📫 How to reach me: sehtab@yahoo.com
+####  😄 Pronouns: He/Him
+#### ⚡ Fun fact: Ambivert 
 
 
 
