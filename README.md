@@ -1,5 +1,4 @@
-![javier-miranda-6Pou6SeJ6cY-unsplash](https://user-images.githubusercontent.com/70243598/173207555-69349dac-0a41-461b-b129-97f51dc3f659.jpg)
-
+![marek-piwnicki-Fj07plZNWgw-unsplash](https://user-images.githubusercontent.com/70243598/173207674-70a2f4cd-10b2-425a-979c-cab1e412bdee.jpg)
 # Hi there 👋
 #### 🔭 I’m currently working on UMKC / Algorizin #### 🌱 I’m currently learning  Frontend and Backend operation and, Data Science
 #### 👯 I’m looking to collaborate on Reinforcement Learning, GAN
